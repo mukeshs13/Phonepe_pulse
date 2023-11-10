@@ -10,10 +10,10 @@ from git.repo.base import Repo
 
 # Setting up the Page Configuration
 
-st.set_page_config(page_title="Phonepe Pulse Data Visualization | By Sriram",
+st.set_page_config(page_title="Phonepe Pulse Data Visualization | By Mukesh",
                    layout="wide",
                    initial_sidebar_state="expanded",
-                   menu_items={'About': """# This dashboard app is created by *Sriram*!
+                   menu_items={'About': """# This dashboard app is created by *Mukesh*!
                                         Data has been cloned from Phonepe Pulse Github Repo"""})
 
 # #To clone the Github Pulse repository use the following code
